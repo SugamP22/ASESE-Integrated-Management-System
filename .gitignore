@@ -5,4 +5,4 @@ target/
 .settings/
 .classpath
 .project
-/Db.java
+/proyectoASESE/src/main/java/db/Db.java
