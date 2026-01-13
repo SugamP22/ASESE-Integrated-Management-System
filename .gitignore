@@ -6,3 +6,4 @@ target/
 .classpath
 .project
 /proyectoASESE/src/main/java/db/Db.java
+/proyectoASESE/src/main/resources/db/data.sql
